@@ -1,0 +1,22 @@
+{
+  "name": "multisig-wallet",
+  "version": "1.0.0",
+  "description": "Project demo customers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunghus/multisig-wallet.git"
+  },
+  "author": "Hunglv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunghus/multisig-wallet/issues"
+  },
+  "homepage": "https://github.com/Hunghus/multisig-wallet#readme",
+  "dependencies": {
+    "bitgo": "^4.33.0"
+  }
+}
